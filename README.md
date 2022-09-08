@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devilishj
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Java, Dart/Flutter, and all the extra packages that work with them.
-- 💞️ I’m looking to collaborate on any thing that interests me
+- 💞️ I’m looking to collaborate on anything that will add to my education
 - 📫 How to reach me ... send me a message on here to start
 
 <!---
